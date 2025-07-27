@@ -9,17 +9,17 @@ public class Whale extends Mammal implements Aquatic{
 
     @Override
     public void feedMilk() {
-        System.out.println(name + " is feeding its calf underwater.");
+       
     }
 
     @Override
     public void makeSound() {
-        System.out.println(name + " sings a whale song.");
+       
     }
 
     @Override
     public void swim() {
-        System.out.println(name + " is swimming.");
+        
     }
 
     @Override

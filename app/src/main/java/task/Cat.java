@@ -9,7 +9,7 @@ public class Cat extends Mammal implements HasFur{
     }
     @Override
     public void groomFur() {
-        System.out.println(name + " is grooming its fur.");
+        
     }
     @Override
     public String getFurColor() {
@@ -17,11 +17,11 @@ public class Cat extends Mammal implements HasFur{
     }
     @Override
     public void feedMilk() {
-        System.out.println(name + " is feeding kittens.");
+        
     }
     @Override
     public void makeSound() {
-        System.out.println(name + " says: Meow.");
+        
     }
     @Override
     public void setFurColor(String color) {

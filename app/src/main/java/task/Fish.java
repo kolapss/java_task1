@@ -11,7 +11,7 @@ public class Fish extends Animal implements Aquatic{
 
     @Override
     public void swim() {
-       System.out.println(name + " swims in water.");
+       
     }
 
     @Override

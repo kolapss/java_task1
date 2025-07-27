@@ -10,12 +10,12 @@ public abstract class Mammal extends Animal implements Vertebrate {
 
     @Override
     public void move(){
-        System.out.println(name + "is walking");
+       
     }
 
     @Override
     public void eat(){
-        System.out.println(name + "is walking");
+        
     }
 
 }
